@@ -20,7 +20,7 @@ Soy **Abel Leonardo Panta Chira**, **Ingeniero de Sistemas** con experiencia con
 - 🚀 Trabajo en **GodMoney** y **SuperShopping** — apps web con React + Supabase
 - 🧠 Explorando **Inteligencia Artificial**, integración con LLMs (Gemini API) y visión por computadora con **OpenCV**
 - 📱 Desarrollo móvil nativo con **Kotlin / Android**
-- 🌍 Basado en **Lima, Perú**
+- 🌍 Vivo en **Lima, Perú**
 
 ---
 
