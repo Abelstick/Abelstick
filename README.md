@@ -33,7 +33,7 @@ Soy **Abel Leonardo Panta Chira**, **Ingeniero de Sistemas** con experiencia con
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-![DevExtreme](https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
+![DevExtress](https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
 
 ### Estado & lógica de cliente
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
