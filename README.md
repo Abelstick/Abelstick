@@ -63,13 +63,3 @@ En **GNT Servicios Generales** trabajo en paralelo sobre seis sistemas logístic
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel_Panta_Chira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![GitHub](https://img.shields.io/badge/GitHub-Abelstick-181717?style=for-the-badge&logo=github)](https://github.com/Abelstick)
-
-</div>
