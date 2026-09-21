@@ -10,14 +10,13 @@
 
 Soy **Abel Leonardo Panta Chira**, Ingeniero de Sistemas enfocado en **desarrollo backend y diseño de soluciones de datos sobre SQL Server**.
 
-En **GNT Servicios Generales** trabajo en paralelo sobre seis sistemas logísticos, donde diseño desde cero la estructura de datos y la lógica de negocio (tablas, stored procedures, integraciones) de módulos que reemplazan procesos manuales basados en Excel y correo electrónico. Participo en el levantamiento de requerimientos con las áreas usuarias y defino cómo el backend y el frontend deben consumir la solución.
+En **GNT** desarrollo los sistemas y requerimientos de base de datos para las empresas del grupo — **Logística Intermodal de Perú**, **New Terminal Service Perú** y **New Sky Transport** — diseñando desde cero la estructura de datos y la lógica de negocio (tablas, stored procedures, integraciones) de módulos que reemplazan procesos manuales basados en Excel y correo electrónico. Participo en el levantamiento de requerimientos con las áreas usuarias y defino cómo el backend y el frontend deben consumir la solución.
 
 - Diseño de **stored procedures**, procesos **ETL** y una capa analítica tipo **Data Warehouse** con jobs programados en SQL Server
 - Integraciones con plataformas de terceros: monitoreo GPS, courier internacional, telemetría y aduanas
 - Base full-stack previa en **React.js**, **Node.js/Express** y **TypeScript**
 - Explorando **integración de LLMs** en aplicaciones propias y certificándome en **Azure (AZ-900)** y **SQL AI Developer Associate**
 - Lima, Perú
-
 ---
 
 ## Proyectos personales 
