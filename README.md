@@ -24,9 +24,9 @@ En **GNT Servicios Generales** trabajo en paralelo sobre seis sistemas logístic
 
 | Proyecto | Descripción | Demo |
 |---|---|---|
+| **[StudyQuest](https://github.com/Abelstick/Studyquest)** | App PWA para estudiar "gamificado": tareas, hábitos, cursos y metas dan XP y monedas para subir de nivel, con React + TypeScript + Supabase | — |
 | **[GodMoney](https://github.com/Abelstick/GodMoney)** | Gestión de finanzas personales con asistente conversacional de IA sobre tus propios datos y notificaciones vía bot de Telegram | [Ver demo](https://godmoney-hxs3.onrender.com) |
 | **[SuperShopping](https://github.com/Abelstick/SuperShopping)** | Inventario del hogar y planificación de compras colaborativa, con modo de compra en tiempo real | [Ver demo](https://supershopping.onrender.com) |
-| **[ETL-WF-NODE](https://github.com/Abelstick/ETL-WF-NODE)** | Flujo ETL automatizado en Node.js para procesar y cargar datos desde archivos Excel | — |
 
 ---
 
@@ -62,4 +62,3 @@ En **GNT Servicios Generales** trabajo en paralelo sobre seis sistemas logístic
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
